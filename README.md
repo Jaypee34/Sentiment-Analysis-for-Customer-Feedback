@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AMDARI is an end-to-end **Natural Language Processing (NLP)** and **Machine Learning** project designed to analyse customer feedback and transform unstructured text data into actionable business intelligence. The system classifies customer reviews into **Positive, Negative, and Neutral** sentiment categories while identifying the underlying drivers influencing customer satisfaction and dissatisfaction.
+This is an end-to-end **Natural Language Processing (NLP)** and **Machine Learning** project designed to analyse customer feedback and transform unstructured text data into actionable business intelligence. The system classifies customer reviews into **Positive, Negative, and Neutral** sentiment categories while identifying the underlying drivers influencing customer satisfaction and dissatisfaction.
 
 The project combines **classical machine learning models**, **transformer-based deep learning models**, **Explainable Artificial Intelligence (XAI)** techniques, and **real-time deployment** through an interactive web application.
 
