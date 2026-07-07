@@ -21,6 +21,12 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
+# Direct Python code execution in Jupyter notebook (no need for python -c command)
+import torch
+import transformers
+import streamlit
+import safetensors
+
 
 import pandas as pd
 
